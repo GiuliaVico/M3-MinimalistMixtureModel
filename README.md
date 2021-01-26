@@ -1,3 +1,4 @@
+# DOI: 10.5281/zenodo.4469832 
 # CODES AND TECHNICAL DESCRIPTION OF THE MINIMALIST MIXTURE MODEL (M3)
 
 # Contacts and further information
