@@ -1,17 +1,17 @@
-# M3-MinimalistMixtureModel
 # CODES AND TECHNICAL DESCRIPTION OF THE MINIMALIST MIXTURE MODEL (M3)
 
-# Contacts and further information: 
+# Contacts and further information
 Herman Berghuijs (herman.berghuijs@wur.nl); Giulia Vico (giulia.vico@slu.se)
 For the model rationale, calibration and validation see
 Berghuijs HNC, Wang Z, Stomph TJ, Weih M, Van der Werf W, Vico G (2020), Identification of crop traits enhancing wheat-faba bean intercrop productivity: a crop growth model and sensitivity analyses, Plant and Soil, 455, 203–226, https://doi.org/10.1007/s11104-020-04668-0
 
-# CONTENT
+# Content
 
 M3_source_code.zip contains the source code, the executable, and a sample of input files.
 M3_TechnicalDescription_BerghuijsVico_Jan2021.pdf contains a technical description of all the model components.
+Licennsing
 
-# MODEL RUNNING
+# How to run the model?
 
 M3 can be run as follows:
 - If M3 is used for the first time, unpack M3_source_code.zip at a chosen location.
