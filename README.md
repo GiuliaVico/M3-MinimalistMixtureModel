@@ -1,8 +1,8 @@
 # M3-MinimalistMixtureModel
 # CODES AND TECHNICAL DESCRIPTION OF THE MINIMALIST MIXTURE MODEL (M3)
 
-# Contacts: Herman Berghuijs (herman.berghuijs@wur.nl); Giulia Vico (giulia.vico@slu.se)
-
+# Contacts and further information: 
+Herman Berghuijs (herman.berghuijs@wur.nl); Giulia Vico (giulia.vico@slu.se)
 For the model rationale, calibration and validation see
 Berghuijs HNC, Wang Z, Stomph TJ, Weih M, Van der Werf W, Vico G (2020), Identification of crop traits enhancing wheat-faba bean intercrop productivity: a crop growth model and sensitivity analyses, Plant and Soil, 455, 203–226, https://doi.org/10.1007/s11104-020-04668-0
 
